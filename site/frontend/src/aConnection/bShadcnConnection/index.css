@@ -1317,7 +1317,7 @@ html, body, #root {
 }
 
 /* Chattrix */
-/* @layer base {
+@layer base {
   :root {
     --background: 316 52% 75%; 
     --foreground: 270 82% 7%;  
@@ -1409,7 +1409,7 @@ html, body, #root {
     --sidebar-border: 270 35% 18%;
     --sidebar-ring: 316 52% 75%;
   }
-} */
+}
 
 @layer base {
   * {
