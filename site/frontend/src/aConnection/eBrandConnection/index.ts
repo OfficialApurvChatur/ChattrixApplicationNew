@@ -55,6 +55,11 @@ const brandConnection = {
   tFrontendProductionURL2: "https://chattrix-frontend-v02.netlify.app",
 
   uTagName: "Send messages. Get responses.",
+
+  vMainApplication: "Chattrix Application",
+  vFrontendApplication: "Chattrix Application (Frontend)",
+  vAdminApplication: "Chattrix Application (Admin)",
+  vBackendApplication: "Chattrix Application (Backend)",
 }
 
 export default brandConnection;
